@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: API-FREQUENCY-LIMIT
+  redis:
+    host: 192.168.0.122
+    password: root
+server:
+  port: 9090
